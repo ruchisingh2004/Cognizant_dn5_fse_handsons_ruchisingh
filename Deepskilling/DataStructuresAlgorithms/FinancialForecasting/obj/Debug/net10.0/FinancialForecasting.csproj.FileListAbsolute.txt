@@ -1,0 +1,15 @@
+E:\Cognizant_Digital_Nurture\Deepskilling\DataStructuresAlgorithms\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cognizant_Digital_Nurture\Deepskilling\DataStructuresAlgorithms\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.AssemblyInfoInputs.cache
+E:\Cognizant_Digital_Nurture\Deepskilling\DataStructuresAlgorithms\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.AssemblyInfo.cs
+E:\Cognizant_Digital_Nurture\Deepskilling\DataStructuresAlgorithms\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.csproj.CoreCompileInputs.cache
+E:\Cognizant_Digital_Nurture\Deepskilling\DataStructuresAlgorithms\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.sourcelink.json
+E:\Cognizant_Digital_Nurture\Deepskilling\DataStructuresAlgorithms\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.exe
+E:\Cognizant_Digital_Nurture\Deepskilling\DataStructuresAlgorithms\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.deps.json
+E:\Cognizant_Digital_Nurture\Deepskilling\DataStructuresAlgorithms\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.runtimeconfig.json
+E:\Cognizant_Digital_Nurture\Deepskilling\DataStructuresAlgorithms\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.dll
+E:\Cognizant_Digital_Nurture\Deepskilling\DataStructuresAlgorithms\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.pdb
+E:\Cognizant_Digital_Nurture\Deepskilling\DataStructuresAlgorithms\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.dll
+E:\Cognizant_Digital_Nurture\Deepskilling\DataStructuresAlgorithms\FinancialForecasting\obj\Debug\net10.0\refint\FinancialForecasting.dll
+E:\Cognizant_Digital_Nurture\Deepskilling\DataStructuresAlgorithms\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.pdb
+E:\Cognizant_Digital_Nurture\Deepskilling\DataStructuresAlgorithms\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.genruntimeconfig.cache
+E:\Cognizant_Digital_Nurture\Deepskilling\DataStructuresAlgorithms\FinancialForecasting\obj\Debug\net10.0\ref\FinancialForecasting.dll
