@@ -35,3 +35,11 @@ E:\Cognizant_Digital_Nurture\Deepskilling\EmployeeWebApi\obj\Debug\net10.0\ref\E
 E:\Cognizant_Digital_Nurture\Deepskilling\EmployeeWebApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\Cognizant_Digital_Nurture\Deepskilling\EmployeeWebApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\Cognizant_Digital_Nurture\Deepskilling\EmployeeWebApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Cognizant_Digital_Nurture\Deepskilling\EmployeeWebApi\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Cognizant_Digital_Nurture\Deepskilling\EmployeeWebApi\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Cognizant_Digital_Nurture\Deepskilling\EmployeeWebApi\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Cognizant_Digital_Nurture\Deepskilling\EmployeeWebApi\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\Cognizant_Digital_Nurture\Deepskilling\EmployeeWebApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\Cognizant_Digital_Nurture\Deepskilling\EmployeeWebApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Cognizant_Digital_Nurture\Deepskilling\EmployeeWebApi\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\Cognizant_Digital_Nurture\Deepskilling\EmployeeWebApi\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
