@@ -3632,11 +3632,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\EFcore8\\RetailInventory\\RetailInventory.csproj",
+      "projectUniqueName": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 2 & 3\\EFcore8\\RetailInventory\\RetailInventory.csproj",
       "projectName": "RetailInventory",
-      "projectPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\EFcore8\\RetailInventory\\RetailInventory.csproj",
+      "projectPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 2 & 3\\EFcore8\\RetailInventory\\RetailInventory.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\EFcore8\\RetailInventory\\obj\\",
+      "outputPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 2 & 3\\EFcore8\\RetailInventory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

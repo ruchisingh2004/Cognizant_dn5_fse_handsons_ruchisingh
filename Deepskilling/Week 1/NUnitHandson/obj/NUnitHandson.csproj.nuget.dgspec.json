@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Cognizant_Digital_Nurture\\Deepskilling\\NUnitHandson\\NUnitHandson.csproj": {}
+    "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\NUnitHandson\\NUnitHandson.csproj": {}
   },
   "projects": {
-    "E:\\Cognizant_Digital_Nurture\\Deepskilling\\NUnitHandson\\NUnitHandson.csproj": {
+    "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\NUnitHandson\\NUnitHandson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\NUnitHandson\\NUnitHandson.csproj",
+        "projectUniqueName": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\NUnitHandson\\NUnitHandson.csproj",
         "projectName": "NUnitHandson",
-        "projectPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\NUnitHandson\\NUnitHandson.csproj",
+        "projectPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\NUnitHandson\\NUnitHandson.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\NUnitHandson\\obj\\",
+        "outputPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\NUnitHandson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

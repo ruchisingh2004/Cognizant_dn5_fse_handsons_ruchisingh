@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\DataStructuresAlgorithms\\FinancialForecasting\\FinancialForecasting.csproj",
+      "projectUniqueName": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\FinancialForecasting\\FinancialForecasting.csproj",
       "projectName": "FinancialForecasting",
-      "projectPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\DataStructuresAlgorithms\\FinancialForecasting\\FinancialForecasting.csproj",
+      "projectPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\FinancialForecasting\\FinancialForecasting.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\DataStructuresAlgorithms\\FinancialForecasting\\obj\\",
+      "outputPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\FinancialForecasting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

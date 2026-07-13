@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Cognizant_Digital_Nurture\\Deepskilling\\DataStructuresAlgorithms\\EcommerceSearchFunction\\EcommerceSearchFunction.csproj": {}
+    "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\EcommerceSearchFunction\\EcommerceSearchFunction.csproj": {}
   },
   "projects": {
-    "E:\\Cognizant_Digital_Nurture\\Deepskilling\\DataStructuresAlgorithms\\EcommerceSearchFunction\\EcommerceSearchFunction.csproj": {
+    "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\EcommerceSearchFunction\\EcommerceSearchFunction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\DataStructuresAlgorithms\\EcommerceSearchFunction\\EcommerceSearchFunction.csproj",
+        "projectUniqueName": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\EcommerceSearchFunction\\EcommerceSearchFunction.csproj",
         "projectName": "EcommerceSearchFunction",
-        "projectPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\DataStructuresAlgorithms\\EcommerceSearchFunction\\EcommerceSearchFunction.csproj",
+        "projectPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\EcommerceSearchFunction\\EcommerceSearchFunction.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\DataStructuresAlgorithms\\EcommerceSearchFunction\\obj\\",
+        "outputPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\EcommerceSearchFunction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

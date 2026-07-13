@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SSe3Q10Uu88=",
+  "dgSpecHash": "QMrsB39tc+I=",
   "success": true,
-  "projectFilePath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\NUnitHandson\\NUnitHandson.csproj",
+  "projectFilePath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\NUnitHandson\\NUnitHandson.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",

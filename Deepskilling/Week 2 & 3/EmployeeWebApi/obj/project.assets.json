@@ -811,11 +811,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\EmployeeWebApi\\EmployeeWebApi.csproj",
+      "projectUniqueName": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 2 & 3\\EmployeeWebApi\\EmployeeWebApi.csproj",
       "projectName": "EmployeeWebApi",
-      "projectPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\EmployeeWebApi\\EmployeeWebApi.csproj",
+      "projectPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 2 & 3\\EmployeeWebApi\\EmployeeWebApi.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\EmployeeWebApi\\obj\\",
+      "outputPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 2 & 3\\EmployeeWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoqHandson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14cb42cb1cfa2d2f48e7b7a14e81f27f70aee033")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+682cc1fe4d6353d9a3b8ecf341909ee4e07ce35c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoqHandson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoqHandson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
