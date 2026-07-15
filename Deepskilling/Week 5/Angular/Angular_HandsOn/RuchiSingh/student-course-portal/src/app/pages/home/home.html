@@ -1,0 +1,19 @@
+<h1>Welcome to Student Course Portal</h1>
+
+<p>
+  Browse available courses, manage your enrollment and view your student profile.
+</p>
+
+<app-course-card
+  title="Angular Fundamentals"
+  instructor="John Smith"
+  duration="6 Weeks"
+  (enroll)="onEnroll($event)">
+</app-course-card>
+
+<app-course-card
+  title="React Essentials"
+  instructor="Jane Doe"
+  duration="8 Weeks"
+  (enroll)="onEnroll($event)">
+</app-course-card>
