@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.column {
+  width: 300px;
+  padding: 20px;
+  border-right: 4px solid green;
+}
+
+.column:last-child {
+  border-right: none;
+}
