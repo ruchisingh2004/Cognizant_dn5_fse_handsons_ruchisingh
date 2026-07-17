@@ -1,19 +1,20 @@
-<h1>Welcome to Student Course Portal</h1>
+<h1>Available Courses</h1>
 
-<p>
-  Browse available courses, manage your enrollment and view your student profile.
-</p>
+<div *ngFor="let course of courses">
 
-<app-course-card
-  title="Angular Fundamentals"
-  instructor="John Smith"
-  duration="6 Weeks"
-  (enroll)="onEnroll($event)">
-</app-course-card>
+  <app-course-card
+      *ngIf="course.available"
+      [title]="course.title"
+      [instructor]="course.instructor"
+      [duration]="course.duration"
+      (enroll)="onEnroll($event)">
+  </app-course-card>
 
-<app-course-card
-  title="React Essentials"
-  instructor="Jane Doe"
-  duration="8 Weeks"
-  (enroll)="onEnroll($event)">
-</app-course-card>
+  <p>
+    Course Fee:
+    <strong>{{ course.fee | currency:'INR' }}</strong>
+  </p>
+
+  <hr>
+
+</div>
