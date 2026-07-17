@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\FinancialForecasting\\FinancialForecasting.csproj": {}
+    "e:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\FinancialForecasting\\FinancialForecasting.csproj": {}
   },
   "projects": {
-    "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\FinancialForecasting\\FinancialForecasting.csproj": {
+    "e:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\FinancialForecasting\\FinancialForecasting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\FinancialForecasting\\FinancialForecasting.csproj",
+        "projectUniqueName": "e:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\FinancialForecasting\\FinancialForecasting.csproj",
         "projectName": "FinancialForecasting",
-        "projectPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\FinancialForecasting\\FinancialForecasting.csproj",
+        "projectPath": "e:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\FinancialForecasting\\FinancialForecasting.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\FinancialForecasting\\obj\\",
+        "outputPath": "e:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\DataStructuresAlgorithms\\FinancialForecasting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

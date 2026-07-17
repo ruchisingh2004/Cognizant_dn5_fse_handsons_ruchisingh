@@ -1648,11 +1648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\MoqHandson\\MoqHandson.csproj",
+      "projectUniqueName": "e:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\MoqHandson\\MoqHandson.csproj",
       "projectName": "MoqHandson",
-      "projectPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\MoqHandson\\MoqHandson.csproj",
+      "projectPath": "e:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\MoqHandson\\MoqHandson.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "E:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\MoqHandson\\obj\\",
+      "outputPath": "e:\\Cognizant_Digital_Nurture\\Deepskilling\\Week 1\\MoqHandson\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
