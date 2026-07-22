@@ -1,6 +1,8 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { CommonModule, CurrencyPipe } from '@angular/common';
 import { CourseCard } from '../../components/course-card/course-card';
+
+import { CourseService } from '../../services/course';
 
 @Component({
   selector: 'app-home',
@@ -9,8 +11,12 @@ import { CourseCard } from '../../components/course-card/course-card';
   templateUrl: './home.html',
   styleUrl: './home.css'
 })
-export class Home {
+export class Home implements OnInit {
 
+  // HOL 6: live number of courses from CourseService
+  courseCount: number = 0;
+
+  // Existing course data - keep this
   courses = [
     {
       title: 'Angular Fundamentals',
@@ -35,7 +41,14 @@ export class Home {
     }
   ];
 
-  onEnroll(course: string) {
+  // Inject CourseService
+  constructor(private courseService: CourseService) {}
+
+  ngOnInit(): void {
+    this.courseCount = this.courseService.getCourses().length;
+  }
+
+  onEnroll(course: string): void {
     alert('Enrolled in ' + course);
   }
 
