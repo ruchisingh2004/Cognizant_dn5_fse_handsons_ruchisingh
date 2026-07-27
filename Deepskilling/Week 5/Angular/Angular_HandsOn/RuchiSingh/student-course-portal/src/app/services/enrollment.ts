@@ -1,4 +1,6 @@
 import { Injectable } from '@angular/core';
+import { Observable, map } from 'rxjs';
+
 import { Course } from '../models/course.model';
 import { CourseService } from './course';
 
@@ -7,29 +9,33 @@ import { CourseService } from './course';
 })
 export class EnrollmentService {
 
-  private enrolledCourseIds: number[] = [];
+  private enrolledCourseIds: string[] = [];
 
   constructor(private courseService: CourseService) {}
 
-  enroll(courseId: number): void {
+  enroll(courseId: string): void {
     if (!this.enrolledCourseIds.includes(courseId)) {
       this.enrolledCourseIds.push(courseId);
     }
   }
 
-  unenroll(courseId: number): void {
+  unenroll(courseId: string): void {
     this.enrolledCourseIds = this.enrolledCourseIds.filter(
       id => id !== courseId
     );
   }
 
-  isEnrolled(courseId: number): boolean {
+  isEnrolled(courseId: string): boolean {
     return this.enrolledCourseIds.includes(courseId);
   }
 
-  getEnrolledCourses(): Course[] {
-    return this.courseService
-      .getCourses()
-      .filter(course => this.enrolledCourseIds.includes(course.id));
+  getEnrolledCourses(): Observable<Course[]> {
+    return this.courseService.getCourses().pipe(
+      map(courses =>
+        courses.filter(course =>
+          this.enrolledCourseIds.includes(course.id)
+        )
+      )
+    );
   }
 }

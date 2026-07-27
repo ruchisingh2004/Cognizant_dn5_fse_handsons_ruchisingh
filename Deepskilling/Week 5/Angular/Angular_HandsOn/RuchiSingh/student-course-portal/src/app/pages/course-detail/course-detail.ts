@@ -14,7 +14,7 @@ import { Course } from '../../models/course.model';
 })
 export class CourseDetail implements OnInit {
 
-  course: Course | undefined;
+  course: Course | null = null;
 
   constructor(
     private route: ActivatedRoute,
@@ -22,7 +22,19 @@ export class CourseDetail implements OnInit {
   ) {}
 
   ngOnInit(): void {
-    const id = Number(this.route.snapshot.paramMap.get('id'));
-    this.course = this.courseService.getCourseById(id);
+    const id = this.route.snapshot.paramMap.get('id');
+
+    if (id) {
+      this.courseService.getCourseById(id).subscribe({
+        next: (course) => {
+          this.course = course;
+          console.log('Course fetched:', course);
+        },
+        error: (error) => {
+          console.error('Error fetching course:', error);
+          this.course = null;
+        }
+      });
+    }
   }
 }

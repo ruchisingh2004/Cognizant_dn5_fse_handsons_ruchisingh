@@ -1,17 +1,48 @@
 <h2>Available Courses</h2>
 
-<div *ngFor="let course of courses">
+<button type="button" (click)="addTestCourse()">
+  Add Test Course
+</button>
 
-  <h3>{{ course.name }}</h3>
+<br><br>
 
-  <p>Course ID: {{ course.id }}</p>
+<p *ngIf="loading$ | async">
+  Loading courses...
+</p>
 
-  <p>Code: {{ course.code }}</p>
+<p *ngIf="error$ | async as error">
+  Error: {{ error }}
+</p>
 
-  <p>Credits: {{ course.credits }}</p>
+<div *ngIf="courses$ | async as courses">
 
-  <p>Grade Status: {{ course.gradeStatus }}</p>
+  <div *ngFor="let course of courses">
 
-  <hr>
+    <h3>{{ course.name }}</h3>
+
+    <p>Course ID: {{ course.id }}</p>
+    <p>Code: {{ course.code }}</p>
+    <p>Credits: {{ course.credits }}</p>
+    <p>Grade Status: {{ course.gradeStatus }}</p>
+
+    <a [routerLink]="['/courses', course.id]">
+      View Details
+    </a>
+
+    <br><br>
+
+    <button type="button" (click)="updateTestCourse(course)">
+      Update
+    </button>
+
+    &nbsp;
+
+    <button type="button" (click)="deleteCourse(course.id)">
+      Delete
+    </button>
+
+    <hr>
+
+  </div>
 
 </div>
